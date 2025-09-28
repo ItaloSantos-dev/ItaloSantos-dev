@@ -4,10 +4,26 @@
 - 📚 Studying PHP Laravel, C#, HTML, CSS, JS
 - 👨‍💻 Currently studying with a focus on FullStack/Back-end
 
+<table width="100%" >
+  <tr>
+    <td width ="600vw" align ="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ItaloSantos-dev&show_icons=true&theme=radical" alt="stats" height="160"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSantos-dev&layout=compact&theme=radical" alt="langs" height="160"/>
+    </td>
+    <td  width ="400vw" align ="center" >
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMyY211anZwb25ucDVzN25zMjAzMWtpNDhkbm9kcGF6cjk5ZnRuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif" width="150%" />
+    </td>
+  </tr>
+</table>
 
-[![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Italo-Santos-dev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Santos-dev&layout=compact&theme=radical)
+  
+  
+    
+
+
+
 
 
 <div style="display: inline_block"><br>
@@ -27,8 +43,4 @@
   
  </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItaloSantos-dev/ItaloSantos-dev/output/github-contribution-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItaloSantos-dev/ItaloSantos-dev/output/github-contribution-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ItaloSantos-dev/ItaloSantos-dev/output/github-contribution-snake.svg">
-</picture>
+
