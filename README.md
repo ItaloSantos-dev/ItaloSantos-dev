@@ -27,4 +27,8 @@
   
  </div>
 
- ![Snake animation](https://github.com/ItaloSantos-dev/ItaloSantos-dev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItaloSantos-dev/ItaloSantos-dev/output/github-contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItaloSantos-dev/ItaloSantos-dev/output/github-contribution-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ItaloSantos-dev/ItaloSantos-dev/output/github-contribution-snake.svg">
+</picture>
