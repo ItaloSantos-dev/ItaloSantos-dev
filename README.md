@@ -7,7 +7,8 @@
 <table width="100%" >
   <tr>
     <td width ="600vw" align ="center">
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloSantos-dev)](https://github.com/anuraghazra/github-readme-stats)
+      <img src = "https://github-readme-stats.vercel.app/api?username=ItaloSantos-dev">
+      
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSantos-dev&layout=compact&theme=radical" alt="langs" height="160"/>
     </td>
