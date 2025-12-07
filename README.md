@@ -23,6 +23,7 @@
   <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React.svg">
   
 </div>
 <br>
