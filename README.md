@@ -7,9 +7,10 @@
 <table width="100%" >
   <tr>
     <td width ="600vw" align ="center">
-     ![ItaloSantos-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloSantos-dev)
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSantos-dev&layout=compact&theme=radical" alt="langs" height="160"/>
+      <div>
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloSantos-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+      </div>
+### My 
     </td>
     <td  width ="400vw" align ="center" >
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMyY211anZwb25ucDVzN25zMjAzMWtpNDhkbm9kcGF6cjk5ZnRuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif" width="150%" />
