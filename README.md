@@ -1,7 +1,7 @@
 ## Olá eu sou Italo 👋
 
 - 🖥️ Currently a programming student in the Systems Analysis and Development (ADS) course
-- 📚 Studying PHP Laravel, React, HTML, CSS, JS
+- 📚 Studying PHP Laravel, Java, React, HTML, CSS, JS
 - 👨‍💻 Currently studying with a focus on FullStack/Back-end
       <div>
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloSantos-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
