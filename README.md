@@ -20,10 +20,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img align="center" alt"Italo-laravel" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
-  <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt"Italo-react" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt"Italo-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
+  <img align="center" alt"Italo-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg">
   
 </div>
 <br>
