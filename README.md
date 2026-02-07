@@ -1,7 +1,7 @@
 ## Olá eu sou Italo 👋
 
 - 🖥️ Currently a programming student in the Systems Analysis and Development (ADS) course
-- 📚 Studying PHP Laravel, Java, React, HTML, CSS, JS
+- 📚 Studying PHP Laravel, Java, Angular, HTML, CSS, JS
 - 👨‍💻 Currently studying with a focus on FullStack/Back-end
       <div>
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloSantos-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -20,9 +20,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt"Italo-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img align="center" alt"Italo-laravel" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
-  <img align="center" alt"Italo-react" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img align="center" alt"Italo-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
-  <img align="center" alt"Italo-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg">
+  <img align="center" alt"Italo-react" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+  <img align="center" alt"Italo-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt"Italo-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   
 </div>
 <br>
